@@ -1,4 +1,4 @@
-package com.coffee.data_structure.concurrency;
+package com.coffee.data_structure.multithreading.concurrency.concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
